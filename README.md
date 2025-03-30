@@ -6,9 +6,11 @@
 ### Datos Personales
 - Mi nombre es: Ignacio Gallardo
 - Vivo en Ituzaingó
+- Tengo 35 años
 
 
 ### Otra Información
 - Nunca use Github así que todo esto es terreno nuevo y aprenderé de a poco cómo usarlo.
-- 
-- Tengo un gato que se llama Timoteol
+- Vivo con mi abuela, de quién cuido.
+- Tengo una perra que se llama Rubi porque es rubia.
+- Soy profesor de escuela secundaria técnica con orientación en Maestro Mayor de Obras.
